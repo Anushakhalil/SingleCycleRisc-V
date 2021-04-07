@@ -9,5 +9,5 @@ Risc-V is an open source ISA Instruction set architechture.
 ```bash
 git clone https://github.com/Anushakhalil/SingleCycleRisc-V
 ```
-##Top file view
+## Top file view
 ![1](https://github.com/Anushakhalil/SingleCycleRisc-V/blob/master/topfile.PNG "Top File View")
